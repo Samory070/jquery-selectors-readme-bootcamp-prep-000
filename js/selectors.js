@@ -28,3 +28,8 @@ function divSelector() {
   const div = $('.pics')
   return div
 }
+
+function firstListItem(){
+  const item = $(ul:first-child)
+  return item
+}
