@@ -13,3 +13,8 @@ function paragraphSelector() {
   const p = $('p')
   return (p)
 }
+
+function lastImageSelector() {
+  const img = $('img')
+  return img
+}
