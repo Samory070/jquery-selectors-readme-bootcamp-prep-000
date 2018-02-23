@@ -3,4 +3,4 @@
 $('div')
 $('img')
 $('.pics').document.ready()
-$('.pics').document.ready()
+$('#baby-ninja').document.ready()
