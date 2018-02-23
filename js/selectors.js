@@ -13,3 +13,4 @@ function paragraphSelector() {
   const p = document.getElementById('p')
   return p
 }
+paragraphSelector()
