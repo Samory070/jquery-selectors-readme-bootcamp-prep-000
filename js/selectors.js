@@ -19,7 +19,7 @@ function lastImageSelector() {
   return img
 }
 
-function lastImageSelector() {
-  const img = $('img:last')
-  return img
+function ninjaBabySelector() {
+  const baby = $('#baby-ninja')
+  return baby
 }
