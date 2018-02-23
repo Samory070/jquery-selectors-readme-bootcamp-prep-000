@@ -15,6 +15,6 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  const img = $('img')
+  const img = $('img:last')
   return img
 }
