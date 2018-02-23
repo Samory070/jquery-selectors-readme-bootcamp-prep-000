@@ -2,8 +2,8 @@
 
 $('div')
 $('img')
-$('.pics').document.ready()
-$('#baby-ninja').document.ready()
+$('.pics')
+$('#baby-ninja')
 $('ul li')
 $('div img:first-child')
 $("img[alt='the beatles making faces']")
