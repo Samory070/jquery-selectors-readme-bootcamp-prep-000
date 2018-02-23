@@ -2,4 +2,4 @@
 
 $('div')
 $('img')
-$('.pics')
+$('.pics').document.ready()
