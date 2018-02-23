@@ -11,25 +11,25 @@ $('div:last')
 
 function paragraphSelector() {
   const p = $('p')
-  return (p)
+  console.log((p))
 }
 
 function lastImageSelector() {
   const img = $('img:last')
-  return img
+  console.log(img)
 }
 
 function ninjaBabySelector() {
   const baby = $('#baby-ninja')
-  return baby
+  console.log(baby)
 }
 
 function divSelector() {
   const div = $('.pics')
-  return div
+  console.log(div)
 }
 
 function firstListItem(){
   const item = $('ul#pic-list li:first-child')
-  return item
+  console.log(item)
 }
