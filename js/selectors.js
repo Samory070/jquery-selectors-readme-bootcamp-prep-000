@@ -3,3 +3,4 @@
 $('div')
 $('img')
 $('.pics').document.ready()
+$('.pics').document.ready()
