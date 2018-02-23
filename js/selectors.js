@@ -11,7 +11,7 @@ $('div:last')
 
 function paragraphSelector() {
   const p = $('p')
-  console.log((p))
+  console.log(p)
 }
 
 function lastImageSelector() {
