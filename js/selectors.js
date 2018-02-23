@@ -13,4 +13,3 @@ function paragraphSelector() {
   const p = $('p')
   return (p)
 }
-paragraphSelector()
