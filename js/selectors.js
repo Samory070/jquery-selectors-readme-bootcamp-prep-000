@@ -10,7 +10,7 @@ $("img[alt='the beatles making faces']")
 $('div:last')
 
 function paragraphSelector() {
-  const p = document.getElementById('p')
+  const p = document.querySelectorAll('p')
   console.log(p)
 }
 paragraphSelector()
