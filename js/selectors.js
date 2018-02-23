@@ -30,6 +30,6 @@ function divSelector() {
 }
 
 function firstListItem(){
-  const item = $(ul #pic-list)
+  const item = $(ul#pic-list li:first-child)
   return item
 }
