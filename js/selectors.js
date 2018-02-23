@@ -11,6 +11,6 @@ $('div:last')
 
 function paragraphSelector() {
   const p = $('p')
-  console.log(p)
+  return (p)
 }
 paragraphSelector()
