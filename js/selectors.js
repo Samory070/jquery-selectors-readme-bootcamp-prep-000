@@ -18,3 +18,8 @@ function lastImageSelector() {
   const img = $('img:last')
   return img
 }
+
+function lastImageSelector() {
+  const img = $('img:last')
+  return img
+}
