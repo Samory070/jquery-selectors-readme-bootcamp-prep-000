@@ -10,7 +10,7 @@ $("img[alt='the beatles making faces']")
 $('div:last')
 
 function paragraphSelector() {
-  const p = $('div')
+  const p = $('p')
   return (p)
 }
 
@@ -25,6 +25,6 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  const div = $('div .pics')
+  const div = $('#div')
   return div
 }
